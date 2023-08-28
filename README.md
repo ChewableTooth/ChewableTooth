@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elijah Morgan, but call me "Eli."
 - 👀 I’m interested in: computer graphics, automation, logic puzzles, inde rock and coffee. 
-- 🌱 I’m currently learning Python 3, computer science essentials and concepts.
+- 🌱 Currently, I'm a Batchelors student at Grand Valley State University majoring in computer science and minoring in mathematics.
 - 
 - How to reach me:
 - 📧 Email:     morgaeli@mail.gvsu.edu
